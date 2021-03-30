@@ -3,15 +3,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SachinCyFun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=SachinCyFun)
 
 
-![sach](https://user-images.githubusercontent.com/78366282/112975178-f7853900-9170-11eb-89d2-27aea35f797a.gif)
+![ezgif-3-b5db4f2e33d1](https://user-images.githubusercontent.com/78366282/112976616-b9891480-9172-11eb-9888-d75fa809e4a1.gif)
+
 
 
 - 🔭 I’m currently working on Geospatial Imagery
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Opensource Python Libraries
 - 🤔 I’m looking for people from DevOps side
-- 💬 Ask me about infosec>>>
-- ⚡ Fun fact: Sometime people roasts me but eventually they get roasted>>>
+- 💬 Ask me about infosec and forensics
+- ⚡ Fun fact: I love to explore things about quantum world
 
 ---------------------------------------------------------------------
 
