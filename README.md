@@ -9,12 +9,14 @@
 
 
 
-- 🔭 I’m currently working on Geospatial Imagery
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Opensource Python Libraries
-- 🤔 I’m looking for people from DevOps side
+- 🔭 Playing CTFs and Hacking related challenges
+- 🌱 Currently learning different attack vectors
+- 👯 Excited to collaborate on Opensource Cybernetic tools
+- 🤔 Looking for people from DevSecOps
 - 💬 Ask me about infosec and forensics
-- ⚡ Fun fact: I love to explore things about quantum world
+- ✅ Web Application Penetration Testing
+- ✅ OSINT and GEOINT 
+- ⚡ Automating boring tasks with programming
 
 ---------------------------------------------------------------------
 
@@ -25,7 +27,7 @@
 ---------------------------------------------------------------------
 
 
-### Connect with me:
+### Find me around the Globe :
 
 <p align="left">
 <a href="https://dev.to/sachinkumar8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sachinkumar8" height="30" width="40" /></a>
