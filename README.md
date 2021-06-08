@@ -1,4 +1,6 @@
-### Heyya, I am  [Sachin<CyFu>!](https://linkedin.com/in/sachinkumardhaka) ![cyclone](https://user-images.githubusercontent.com/78366282/121140930-0b77a600-c858-11eb-81c0-726c8344e6ea.gif)
+### Heyya, I am  [Sachin<CyFu>!](https://linkedin.com/in/sachinkumardhaka) 
+
+![cyclone](https://user-images.githubusercontent.com/78366282/121140930-0b77a600-c858-11eb-81c0-726c8344e6ea.gif)
 
 
 
