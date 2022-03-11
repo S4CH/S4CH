@@ -4,15 +4,9 @@
 
 
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Cy5un?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS4CH&screen_name=SachinCyFun)
-
-
-
-
 - 🔭 Playing CTFs and Hacking related challenges
 - 💌 Love to take risky cysec challenges
-- 🌱 Currently learning different attack vectors
+- 🌱 Currently learning different attack vectors and playing around low level stuff
 - 👯 Excited to collaborate on Opensource Cybernetic tools
 - 💬 Ask me about infosec and forensics
 -  ✔️ Web Application Penetration Testing
