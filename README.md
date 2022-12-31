@@ -13,7 +13,7 @@
   <a href="https://discord.com/users/346443596641075200" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="CyFun" />
   </a>
-  <a href="https://www.hackthebox.com/profile/617382" target="blank">
+  <a href="https://tryhackme.com/p/Skthehacker" target="blank">
     <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="CyFun" />
   </a>
   <a href="https://www.hackthebox.com/profile/617382" target="blank">
