@@ -16,7 +16,7 @@
   <a href="https://tryhackme.com/p/Skthehacker" target="blank">
     <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="CyFun" />
   </a>
-  <a href="https://www.app.hackthebox.com/profile/617382" target="blank">
+  <a href="https://app.hackthebox.com/profile/617382" target="blank">
     <img align="center" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="Cy5un" />
   </a>
 </p>
